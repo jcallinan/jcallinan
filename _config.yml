@@ -2,3 +2,19 @@ theme: jekyll-theme-midnight
 relative_links:
   enabled: true
   collections: true
+title: Jeremy Callinan
+locale: en_US
+logo: # filename of a logo image that has been placed into your images directory
+
+# Enter the following platform usernames if you would like for them to appear on your site.
+owner:
+  name: Jeremy Callinan
+  avatar: bio-photo.jpg
+  bio: "Jeremy Callinan is a developer, programming and business owner."
+  email: jpcst52@pitt.edu
+  # Do not include the @ symbol in your Twitter username
+  twitter: jcallinan
+  linkedin: #jeremy.callinan
+  github: jcallinan
+  researchgate: #jcallinan
+ 
